@@ -1,2 +1,3 @@
-# SQL
-SQL Portfolio
+# Emily Ebert's SQL Portfolio
+## Welcome to my SQL portfolio. This code repository contains examples of SQL I've written. Please take a look and reach out if you have any questions!
+*This repository shows my journey learning SQL*
